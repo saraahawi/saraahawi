@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saraahawi
-- 👀 I’m interested in Artificial Intelligence, Data Science, and App Development.
-- 🌱 I’m currently learning R language, data visualization using python, and deep learning
-- 💞️ I’m looking to collaborate on clinical researches incorporating artificial intelligence and app development.
+- 👀 I’m interested in Artificial Intelligence and Data Science.
+- 🌱 I’m currently learning more and more about data science, machine learning, and deep learning using python.
+- 💞️ I’m looking to collaborate on big ground breaking projects where I get to utilize my knowledge and experience to do great things.
 - 📫 How to reach me @saraahawi on Twitter, LinkedIn, and Gmail. 
 
 <!---
